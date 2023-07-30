@@ -1,0 +1,7 @@
+/home/gebre/JavaProjects/Microservices-newest/product-service/src/main/java/com/programmingtechie/productservice/dto/ProductRequest.java
+/home/gebre/JavaProjects/Microservices-newest/product-service/src/main/java/com/programmingtechie/productservice/dto/ProductResponse.java
+/home/gebre/JavaProjects/Microservices-newest/product-service/src/main/java/com/programmingtechie/productservice/repository/ProductRepository.java
+/home/gebre/JavaProjects/Microservices-newest/product-service/src/main/java/com/programmingtechie/productservice/model/Product.java
+/home/gebre/JavaProjects/Microservices-newest/product-service/src/main/java/com/programmingtechie/productservice/service/ProductService.java
+/home/gebre/JavaProjects/Microservices-newest/product-service/src/main/java/com/programmingtechie/productservice/controller/ProductController.java
+/home/gebre/JavaProjects/Microservices-newest/product-service/src/main/java/com/programmingtechie/productservice/ProductServiceApplication.java

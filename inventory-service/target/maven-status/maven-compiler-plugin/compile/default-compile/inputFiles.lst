@@ -1,0 +1,6 @@
+/home/gebre/JavaProjects/Microservices-newest/inventory-service/src/main/java/com/programmingtechie/inventoryservice/dto/InventoryResponse.java
+/home/gebre/JavaProjects/Microservices-newest/inventory-service/src/main/java/com/programmingtechie/inventoryservice/controller/InventoryController.java
+/home/gebre/JavaProjects/Microservices-newest/inventory-service/src/main/java/com/programmingtechie/inventoryservice/repository/InventoryRepository.java
+/home/gebre/JavaProjects/Microservices-newest/inventory-service/src/main/java/com/programmingtechie/inventoryservice/InventoryServiceApplication.java
+/home/gebre/JavaProjects/Microservices-newest/inventory-service/src/main/java/com/programmingtechie/inventoryservice/service/InventoryService.java
+/home/gebre/JavaProjects/Microservices-newest/inventory-service/src/main/java/com/programmingtechie/inventoryservice/model/Inventory.java
